@@ -1,0 +1,16 @@
+# Ham ve işlenmiş sınav verisi (1.5+ GB, ÖSYM/MEB telifli) depoya girmez;
+# veri hattı README'deki adımlarla yeniden üretilebilir.
+data/raw/
+data/processed/
+data/qa/
+
+# Node / Vite
+node_modules/
+dist/
+*.local
+
+# loglar ve geçici dosyalar
+*.log
+__pycache__/
+*.pyc
+.zcode/

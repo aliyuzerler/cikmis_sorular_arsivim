@@ -1,0 +1,5 @@
+{
+ "expected_counts": {"edebiyat": 40},
+ "drop_questions": [["tarih", 1], ["tarih", 2]],
+ "section_map": {}
+}

@@ -1,0 +1,8 @@
+{
+ "section_map": {
+  "belirsiz": "din_hizmetleri"
+ },
+ "expected_counts": {
+  "din_hizmetleri": 20
+ }
+}
